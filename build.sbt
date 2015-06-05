@@ -25,7 +25,6 @@ publishArtifact in Test := false
 pomIncludeRepository := { _ => false }
 
 pomExtra := (
-  <url>http://github.com/intentmedia/mario</url>
     <licenses>
       <license>
         <name>BSD-style</name>

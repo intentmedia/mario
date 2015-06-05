@@ -56,7 +56,7 @@ for {
 Add the following to your sbt build:
 
 ```scala
-libraryDependencies += "com.intentmedia" %% "mario" % "0.1.0"
+libraryDependencies += "com.intentmedia.mario" %% "mario" % "0.1.0"
 ```
 
 ## ![image](http://icons.iconarchive.com/icons/ph03nyx/super-mario/32/Retro-Fire-Ball-icon.png) Roadmap
