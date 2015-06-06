@@ -15,7 +15,7 @@ Execution of pipelines is done concurrently, guaranteeing that each step is exec
 ### Import
 
 ```scala
-import com.intentmedia.Pipeline._
+import com.intentmedia.mario.Pipeline._
 ```
 
 ### Example
