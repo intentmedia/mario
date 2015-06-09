@@ -2,7 +2,7 @@
 
 ![image](http://rocketdock.com/images/screenshots/thumbnails/Mario_pipe_trash_f.png)
 
-Mario is a Scala library focused on defining complex data pipelines in a functional, typesafe, and efficient way.
+Mario is a Scala library focused on defining complex data pipelines in a functional, typesafe, and efficient way.  See the [launch blog post](http://intentmedia.com/one-up-building-machine-learning-pipelines-with-mario/) for more details on the motivation behind the library.
 
 ## ![image](http://icons.iconarchive.com/icons/ph03nyx/super-mario/32/Retro-Block-Question-icon.png) Defining  pipelines
 
